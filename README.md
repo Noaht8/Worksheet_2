@@ -12,7 +12,7 @@ This repository contains a basic implementation of an SSL client and server in J
 1. Clone the repository:
 
 ```shell
-   git clone 
+   git clone https://github.com/Noaht8/Worksheet_2.git 
 ```
 2. Compile the Java files:
 ```
