@@ -31,7 +31,7 @@ This repository contains a basic implementation of an SSL client and server in J
 6. The client and server will establish an SSL/TLS connection and perform server-side and client-side operations respectively.
 
 ## Configuration
-The server keystore file (server.keystore) contains the server's private key and certificate. Update the file path and password in the SSLServer.java file.
+The server keystore file (server.keystore) contains the server's private key and certificate. Update the file path and password in the SSLServer.java file.  
 The client truststore file (client.truststore) contains the server's certificate. Update the file path and password in the SSLClient.java file.
 
 ## Example
